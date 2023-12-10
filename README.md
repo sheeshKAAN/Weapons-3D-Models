@@ -1,2 +1,2 @@
-# Weapons-3D-Models
-3D weapon designs prepared for Venge.io
+# Weapons 3D Models
+These are 3D weapon designs that you can use for your mods.
