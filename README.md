@@ -11,4 +11,4 @@ These are 3D weapon designs that you can use for your mods.
 
 ### Shotgun
 <img src="https://cdn.discordapp.com/attachments/1169733790420181012/1173603055409827870/Ekran_goruntusu_2023-11-13_152728.png?ex=65803d84&is=656dc884&hm=4ecf4f8498224f05491d982887e6e1dd590b8000961c58d5055d86ddd9d7d41d&" alt="none" width="400" height="250"> 
-<img src="https://cdn.discordapp.com/attachments/1169733790420181012/1173603055858622524/Ekran_goruntusu_2023-11-13_152713.png?ex=65803d85&is=656dc885&hm=6f75f9e0ec67f62e54aae51d9394e99be2e3e50105b87b27cf14a8b801f4b640&" alt="none" width="400" height="250
+<img src="https://cdn.discordapp.com/attachments/1169733790420181012/1173603055858622524/Ekran_goruntusu_2023-11-13_152713.png?ex=65803d85&is=656dc885&hm=6f75f9e0ec67f62e54aae51d9394e99be2e3e50105b87b27cf14a8b801f4b640&" alt="none" width="400" height="250">
