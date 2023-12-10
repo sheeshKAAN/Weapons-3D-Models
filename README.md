@@ -2,4 +2,4 @@
 These are 3D weapon designs that you can use for your mods.
 ## In-game Visuals
 - **Scarl**
-<img src="https://iili.io/JTa5j3v.png" alt="none" width="450" height="300">
+<img src="https://iili.io/JTa5j3v.png" alt="none" width="500" height="300">
