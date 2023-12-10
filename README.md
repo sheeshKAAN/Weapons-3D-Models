@@ -1,5 +1,8 @@
 ## Weapons 3D Models
 These are 3D weapon designs that you can use for your mods.
+## How to use?
+First, download and extract the archive of the weapon you want. Then move the numbered asset files to your mod's asset file. Finally, you can make it work by refreshing the game once.
+
 ## In-game Visuals
 ### Scarl
 <img src="https://iili.io/JTa5j3v.png" alt="none" width="400" height="250"> 
