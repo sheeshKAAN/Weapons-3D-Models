@@ -5,7 +5,7 @@ First, download and extract the archive of the weapon you want. Then move the nu
 ## Viewmodel.js
 It is a script file that adjusts the weapon position. 
 
-**Original project:** [Viewmodel.js](https://github.com/sheeshKAAN/Viewmodel.js)
+**Script github:** [Viewmodel.js](https://github.com/sheeshKAAN/Viewmodel.js)
 
 ## Was used in this project:
 <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white">
