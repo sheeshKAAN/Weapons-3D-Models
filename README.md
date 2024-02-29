@@ -1,6 +1,7 @@
 ## Weapons 3D Models
 These are 3D weapon designs that you can use to spice up your game.
 First, download and extract the archive of the weapon you want. Then move the numbered asset files to your mod's asset file. Finally, you can make it work by refreshing the game once.
+
 Here's a video to help you set it up: https://youtu.be/8_iE2_44gqc?si=aTqHNZ4yli_OLhgA
 
 ## Viewmodel.js
